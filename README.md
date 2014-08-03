@@ -82,7 +82,7 @@ Each iteration will look at introducing new processes, tools and features to be 
 Iteration 1 development goals
 -----------------------------
 
-1. Define the Shim plugin interface requirements (no progress)
+1. Define the Shim plugin interface requirements (partial progress)
 2. Provide basic documentation for developers and users (partial progress)
 3. Implement the initial REQUEST->RESPONSE cycle workflow, as per this diagram [link to workflow], resulting in iteration 1 of shim-server (no progress)
 4. Provide a basic shim-cli tool which can be used to validate and test plugins from the command line. (no progress)
